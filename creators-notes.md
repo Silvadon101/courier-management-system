@@ -9,4 +9,6 @@ composer require laravel/ui
 ```
 - **Step 2:**
     run "php artisan ui:auth"
-
+```console
+php artisan ui:auth
+```
